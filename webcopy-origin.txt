@@ -1,0 +1,312 @@
+Uri: https://crypto-tailwind.preview.uideck.com/
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\index.htm
+Content Type: text/html
+
+Uri: https://crypto-tailwind.preview.uideck.com/blog-details
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\blog-details.html
+Content Type: text/html
+
+Uri: https://crypto-tailwind.preview.uideck.com/blog-grid
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\blog-grid.html
+Content Type: text/html
+
+Uri: https://crypto-tailwind.preview.uideck.com/bundle.js
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\bundle.js
+Content Type: application/javascript
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://crypto-tailwind.preview.uideck.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://crypto-tailwind.preview.uideck.com/favicon.ico
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://crypto-tailwind.preview.uideck.com/signin
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\signin.html
+Content Type: text/html
+
+Uri: https://crypto-tailwind.preview.uideck.com/signup
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\signup.html
+Content Type: text/html
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/blog-detail.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\blog-detail.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/image-01.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\image-01.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/image-02.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\image-02.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/image-03.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\image-03.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/image-04.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\image-04.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/image-05.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\image-05.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/image-06.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\image-06.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/post-01.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\post-01.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/post-02.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\post-02.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/blogs/post-03.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\blogs\post-03.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/AyroUI-white.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\AyroUI-white.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/ayroui.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\ayroui.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/LineIcons-white.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\LineIcons-white.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/lineicons.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\lineicons.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/PlainAdmin-white.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\PlainAdmin-white.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/plainadmin.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\plainadmin.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/TailGrids-white.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\TailGrids-white.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/tailgrids.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\tailgrids.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/uideck-white.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\uideck-white.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/brands/uideck.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\brands\uideck.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/download/app-image-2.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\download\app-image-2.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/download/app-image.png
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\download\app-image.png
+Content Type: image/png
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/footer/blog-01.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\footer\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/footer/blog-02.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\footer\blog-02.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/logo/logo-white.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\logo\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/logo/logo.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/sale-token/payment-method.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\sale-token\payment-method.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/faq-shape-1.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\faq-shape-1.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/faq-shape-2.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\faq-shape-2.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/footer-shape-1.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\footer-shape-1.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/footer-shape-2.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\footer-shape-2.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/hero-shape-1.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\hero-shape-1.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/hero-shape-2.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\hero-shape-2.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/newsletter-shape.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\newsletter-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/quote-shape-1.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\quote-shape-1.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/quote-shape-2.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\quote-shape-2.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/testimonial-shape.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\testimonial-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/timeline.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\timeline.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/shapes/token-sale-shape.svg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\shapes\token-sale-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/team/image-01.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\team\image-01.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/team/image-02.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\team\image-02.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/team/image-03.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\team\image-03.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/team/image-04.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\team\image-04.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/testimonials/image-01.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\testimonials\image-01.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/testimonials/image-02.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\testimonials\image-02.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/testimonials/image-03.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\testimonials\image-03.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/src/images/testimonials/image-04.jpg
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\src\images\testimonials\image-04.jpg
+Content Type: image/jpeg
+
+Uri: https://crypto-tailwind.preview.uideck.com/style.css
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\style.css
+Content Type: text/css
+
+Uri: https://crypto-tailwind.preview.uideck.com/support
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\support.html
+Content Type: text/html
+
+Uri: https://crypto-tailwind.preview.uideck.com/token-sale
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\token-sale.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317
+File Name: C:\Downloaded Web Sites\crypto-tailwind.preview.uideck.com\beacon.min.js\v84a3a4012de94ce1a686ba8c167c359c1696973893317
+Content Type: text/javascript
+

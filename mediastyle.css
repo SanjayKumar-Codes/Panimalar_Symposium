@@ -1,0 +1,25 @@
+@media screen and (max-width: 768px) {
+    .logotop {
+        width: 2860px;
+        height: 90px;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-bottom: -30px;
+    }
+
+    .xh {
+        padding-bottom: 7rem
+    }
+
+    .wh {
+        padding-top: 18rem
+    }
+
+    .ca {
+        z-index: 10
+    }
+
+    .e {
+        position: relative
+    }
+}

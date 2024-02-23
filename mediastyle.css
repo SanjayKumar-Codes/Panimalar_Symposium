@@ -22,4 +22,13 @@
     .e {
         position: relative
     }
+    .cardBtn {
+        margin-top: -85px;
+    }
+    .inImg{
+        height: 400px;
+    }
+    .three{
+        margin-bottom: 30px;
+    }
 }
